@@ -4029,7 +4029,6 @@ tau-pageindicator {
   left: 50%;
   -webkit-transform: translate3d(-50%, 0, 0);
           transform: translate3d(-50%, 0, 0);
-          transform: translate3d(-50%, 0, 0);
   white-space: nowrap;
   max-width: 100%;
   overflow: hidden;
